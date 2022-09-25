@@ -1,0 +1,1 @@
+a = MsgBox("Komputer Anda Telah Diinfeksi Oleh Virus free_fire32. Tetap Memakai Komputer Ini?",16,"Garena Free Fire")
